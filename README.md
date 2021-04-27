@@ -1,0 +1,2 @@
+# Red-Wine-Quality-Prediction-using-Decision-Tree-Regression
+This ML model is based on Decision Tree Regression. Here we are trying to predict quality of the Red wine by taking various factor into the consideration like fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulphur dioxide, total sulphur dioxide, density, pH, sulphates, alcohol. The model is trained on about 1280 data and it has been tested on about 320 data. 
